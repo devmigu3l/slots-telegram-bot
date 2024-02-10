@@ -1,0 +1,106 @@
+{
+ 
+
+    "global_active": true,
+    "chats": [
+      {
+
+        "invite_link": "",
+        "members_count": 0,
+        "room": "",
+        "id": "",
+        "token": "",
+        "active": false,
+        "games": [
+          {
+            "name": "🐯 Fortune Tiger",
+            "active": true,
+            "links": {
+              "phone": {
+                "url": "https://www.boomg.com/cassino/cassino/fortune-tiger?start=default",
+                "text": "📱Celular"
+              },
+              "computer": {
+                "url": "https://www.boomg.com/cassino/cassino/fortune-tiger?start=default",
+                "text": "🖥 Computador"
+              }
+            }
+          },
+          {
+            "name": "🐰 Fortune Rabbit",
+            "active": true,
+            "links": {
+              "phone": {
+                "url": "https://www.boomg.com/cassino/cassino/fortune-rabbit?start=default",
+                "text": "📱Celular"
+              },
+              "computer": {
+                "url": "https://www.boomg.com/cassino/cassino/fortune-rabbit?start=default",
+                "text": "🖥 Computador"
+              }
+            }
+          },
+          {
+            "name": "🐮 Fortune Ox",
+            "active": true,
+            "links": {
+              "phone": {
+                "url": "https://www.boomg.com/cassino/cassino/fortune-ox?start=default",
+                "text": "📱Celular"
+              },
+              "computer": {
+                "url": "https://www.boomg.com/cassino/cassino/fortune-ox?start=default",
+                "text": "🖥 Computador"
+              }
+            }
+          },
+          {
+            "name": "🐭 Fortune Mouse",
+            "active": true,
+            "links": {
+              "phone": {
+                "url": "https://www.boomg.com/cassino/cassino/fortune-mouse",
+                "text": "📱Celular"
+              },
+              "computer": {
+                "url": "https://www.boomg.com/cassino/cassino/fortune-mouse",
+                "text": "🖥 Computador"
+              }
+            }
+          }
+        ],
+        "free": false,
+        "free_hours": {
+          "morning": [
+            "09:00",
+            "10:00"
+          ],
+          "afternoon": [
+            "15:00",
+            "16:00"
+          ],
+          "night": [
+            "19:00",
+            "20:00"
+          ]
+        },
+        "links": {
+          "bonus": {
+            "url": "",
+            "text": "💸 Crie sua conta aqui"
+          },
+          "link_adicional": {
+            "url": "",
+            "text": "🤑 Não sabe jogar ainda clique aqui"
+          }
+        },
+        "global_messages": {
+          "alert_message": "<b>🔔 Fique atento ao jogo 🔔</b>\n{game}\n🔎<b> Estamos validando uma entrada</b>\n\n{link_computer} / {link_phone} \n{link_bonus}",
+          "entry_message": "<b>ENTRADA CONFIRMADA 🚨</b>\n{game}\n<b>⚠ Validade:</b> dois minutos\n🌎 Horário De Brasília\n<b>⏰ Estratégia:</b>\n\n{strategy}\n\n{link_computer} / {link_phone}\n{link_bonus}",
+          "finished_message": "<b>🔷🔹Entrada finalizada🔹🔷</b>\n{game}\n\n{link_bonus}"
+        }
+
+      }
+    
+    ]
+  }
